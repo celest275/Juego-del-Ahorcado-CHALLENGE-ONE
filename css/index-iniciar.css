@@ -1,0 +1,93 @@
+*{
+   
+    padding: 0px;
+    font-family:'segoe UI';
+    background-color: white;
+}
+
+.material-symbols-outlined {
+    color: black;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.devolver{
+    margin-left: 1246px;
+    margin-top: 20px;
+    width: 20px;
+    height: 40px;
+    border: none;
+    background-color: white;
+}
+.devolver2{
+    margin-left: 1246px;
+    margin-top: 20px;
+    width: 20px;
+    height: 40px;
+    display: inline-block;
+    border: none;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.log{
+    display: inline-flex;
+}
+#logo{
+    margin: 20px 20px;
+}
+main{
+    text-align: center;
+}
+.container-principal{
+    display: inline-block;
+    margin-top: 150px;
+}
+.boton1,.boton2{
+    font-style: 20px;
+    font-family:'segoe UI';
+    display: block;
+    width:320px ;
+    height: 76px;
+    text-align: center;
+    color: white;
+    background-color: #090441;
+    border-radius:95px ;
+}
+.boton,.boton3{
+    margin-top: 31px;
+    font-style: 20px;
+    font-family:'segoe UI';
+    display: block;
+    width:320px ;
+    height: 76px;
+    text-align: center;
+    color: #090441;
+    background-color: white;
+    border-radius:95px ;
+    border: 1px solid #090441;
+}
+.boton:hover,.boton1:hover{
+  
+    background-color: #1e1b40;
+    color: white;
+   
+}
+.info p{
+    font-family:'segoe UI';
+    margin-top: 10px;
+}
+.info img {
+    text-decoration: none;
+    margin: 20px;
+}
+
+
+.ocultar{
+    display: none;
+}
